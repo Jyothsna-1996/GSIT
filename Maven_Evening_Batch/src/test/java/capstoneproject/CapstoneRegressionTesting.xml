@@ -1,0 +1,11 @@
+<suite name = "Capstone Regression Suite">
+	<test name = "Capstone Regression Testing cycle">
+	<classes>
+	<class name = "capstoneproject.CapstoneClass1"/>
+	<class name = "capstoneproject.CapstoneClass2"/>
+	<class name = "capstoneproject.CapstoneClass3"/>
+	<class name = "capstoneproject.CapstoneClass4"/>		
+	<class name = "capstoneproject.CapstoneClass5"/>			
+	</classes>
+	</test>
+</suite>

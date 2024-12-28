@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="capstoneproject.CapstoneClass1">
+        <methods>
+          <include name="ts2"/>
+          <include name="ts1"/>
+          <include name="launchApp"/>
+          <include name="ts3"/>
+          <include name="closeApp"/>
+        </methods>
+      </class> <!-- capstoneproject.CapstoneClass1 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
